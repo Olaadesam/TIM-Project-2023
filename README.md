@@ -1,2 +1,4 @@
 # TIM-Project-2023
-TIM 2023 final project. Carleton University
+Topic Modeling code used for text analysis. 
+
+Technology Innovation Management (TIM) 2023 final project. Carleton University
